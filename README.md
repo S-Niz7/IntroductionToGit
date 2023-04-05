@@ -1,2 +1,2 @@
 # IntroductionToGit
-Introduction To Github
+Simple Command For GitHub
